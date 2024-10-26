@@ -55,5 +55,29 @@ IP-CIDR,93.158.128.0/18,no-resolve
 IP-CIDR,95.108.128.0/17,no-resolve
 
 #Mail
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,studilka.ru
+DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,vk-cdn.me
+DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,vk-portal.net
+DOMAIN-SUFFIX,vk.cc
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
+
+#Kinopub
+DOMAIN-SUFFIX,cdntogo.net
+
+#Selectel
+DOMAIN-KEYWORD,selectel
+
+#Tilda
+DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tilda.cc
+DOMAIN-SUFFIX,tilda.ru
 
 #Megafon, MTS, Beeline

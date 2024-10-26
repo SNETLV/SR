@@ -1,0 +1,50 @@
+#Russia
+DOMAIN-SUFFIX,ru
+DOMAIN-SUFFIX,su
+DOMAIN-SUFFIX,xn--p1ai
+GEOIP,RU
+
+#Belarus
+DOMAIN-SUFFIX,by
+DOMAIN-SUFFIX,.xn--90ais
+GEOIP,BY
+
+# Kazakhstan
+DOMAIN-SUFFIX,kz
+DOMAIN-SUFFIX,xn--80ao21a
+GEOIP,KZ
+
+# Armenia
+DOMAIN-SUFFIX,am
+GEOIP,AM
+
+# Azerbaijan
+DOMAIN-SUFFIX,az
+DOMAIN-SUFFIX,xn--54b7fta0cc
+GEOIP,AZ
+
+# Georgia
+DOMAIN-SUFFIX,ge
+DOMAIN-SUFFIX,xn--node
+GEOIP,GE
+
+# Kyrgyzstan
+DOMAIN-SUFFIX,kg
+GEOIP,KG
+
+# Moldova
+DOMAIN-SUFFIX,md
+GEOIP,MD
+
+# Tajikistan
+DOMAIN-SUFFIX,tj
+GEOIP,TJ
+
+# Turkmenistan
+DOMAIN-SUFFIX,tm
+GEOIP,TM
+
+# Uzbekistan
+DOMAIN-SUFFIX,uz
+DOMAIN-SUFFIX,xn--80asehdb
+GEOIP,UZ

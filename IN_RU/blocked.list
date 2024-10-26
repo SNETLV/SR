@@ -2,12 +2,11 @@
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habrastorage.org
 
-#Notion
-DOMAIN-SUFFIX,notionusercontent.com
-DOMAIN-SUFFIX,notion.site
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,notion.com
-
 #Hornet
+DOMAIN-SUFFIX,hornet.com
+DOMAIN-SUFFIX,uubuvq-inapps.appsflyersdk.com
+DOMAIN-SUFFIX,hnetworkmedia.com
+DOMAIN-SUFFIX,hnetwork-live.com
+DOMAIN-SUFFIX,api.sqaces.com
 
 #Grindr

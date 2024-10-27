@@ -1,5 +1,5 @@
 #Apple
-DOMAIN-KEYWORD,apple
+#DOMAIN-KEYWORD,apple
 DOMAIN,guzzoni.apple.com
 DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com,DIRECTDOMAIN-SUFFIX,apple-cloudkit.com
@@ -542,7 +542,13 @@ DOMAIN,idmsa.apple.com
 DOMAIN-SUFFIX,mail.icloud.com.cn
 DOMAIN-SUFFIX,mail.me.com
 
-#
+#AppleNews
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+
+
 
 #AppStore
 DOMAIN,apps.apple.com

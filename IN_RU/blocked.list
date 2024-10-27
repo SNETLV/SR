@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habrastorage.org
 
+#Meta
+DOMAIN-SUFFIX,threads.net
+
 #Hornet
 DOMAIN-SUFFIX,hornet.com
 DOMAIN-SUFFIX,uubuvq-inapps.appsflyersdk.com

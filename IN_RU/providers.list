@@ -88,6 +88,14 @@ DOMAIN-SUFFIX,3gppnetwork.org
 #Boosty
 DOMAIN-SUFFIX,boosty.to
 
+#Snap
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapkit.co
+
 #Tiktok
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com

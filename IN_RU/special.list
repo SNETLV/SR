@@ -1,5 +1,24 @@
 #Apple
 DOMAIN,guzzoni.apple.com
+DOMAIN,www-cdn.icloud.com.akadns.net
+DOMAIN-SUFFIX,mzstatic.com,DIRECTDOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,apple.com.ru
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.ru
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,v2ex.com
+
+#AppStore
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
 
 #iCloud
 DOMAIN-SUFFIX,apple-cloudkit.com

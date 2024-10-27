@@ -1,7 +1,6 @@
 #Google
 app.smartmailcloud.com
 
-#Meta
 
 #Netflix
 
@@ -32,6 +31,33 @@ DOMAIN-SUFFIX,notion.com
 #Adobe
 
 #Spotify
+
+#TCL
+DOMAIN-SUFFIX,alcatel-home.com
+DOMAIN-SUFFIX,alcatelmobile.com
+DOMAIN-SUFFIX,blackberry.com
+DOMAIN-SUFFIX,hmeng.cn
+DOMAIN-SUFFIX,hmeng.net.cn
+DOMAIN-SUFFIX,tcl.com
+DOMAIN-SUFFIX,tcl.com.cn
+
+#TIDAL
+DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
+DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,tidalhifi.com
+DOMAIN-SUFFIX,wimpmusic.com
+USER-AGENT,TIDAL*
+USER-AGENT,TIDAL*dia
+
+#Teamviewer
+DOMAIN-SUFFIX,teamviewer.com
+IP-CIDR,139.220.243.27/32,no-resolve
+IP-CIDR,172.16.102.56/32,no-resolve
+IP-CIDR,221.226.128.146/32,no-resolve
+IP-CIDR,2a0b:b580::/48,no-resolve
+IP-CIDR,2a0b:b581::/48,no-resolve
+IP-CIDR,2a0b:b582::/48,no-resolve
+IP-CIDR,2a0b:b583::/48,no-resolve
 
 #Twitch
 DOMAIN-SUFFIX,ext-twitch.tv

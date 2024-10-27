@@ -82,5 +82,8 @@ DOMAIN-SUFFIX,tilda.ru
 
 #Megafon, MTS, Beeline
 
+#VoWiFi
+DOMAIN-SUFFIX,3gppnetwork.org
+
 #Boosty
 DOMAIN-SUFFIX,boosty.to

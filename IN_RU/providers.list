@@ -75,6 +75,13 @@ DOMAIN-SUFFIX,cdntogo.net
 #Selectel
 DOMAIN-KEYWORD,selectel
 
+#Cian
+DOMAIN-SUFFIX,gcdsdk.appsflyersdk.com
+
+#Bitrix
+DOMAIN-KEYWORD,bitrix
+IP-ASN,200401
+
 #Tilda
 DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,tilda.cc
@@ -148,3 +155,8 @@ DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
+
+#Platforms
+DOMAIN-SUFFIX,salebot.pro
+DOMAIN-SUFFIX,habr.com
+

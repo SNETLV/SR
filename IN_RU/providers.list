@@ -163,5 +163,19 @@ DOMAIN-SUFFIX,hsjlxl-skadsdk.appsflyersdk.com
 DOMAIN-SUFFIX,shoko.maxbonus.ru
 DOMAIN-SUFFIX,shoko.group
 
+#Eapteka
+DOMAIN-SUFFIX,eapteka.ru
+DOMAIN-SUFFIX,polyfill.io
+DOMAIN-SUFFIX,mediawallahscript.com
+DOMAIN-SUFFIX,omnitagjs.com
+DOMAIN-SUFFIX,360yield.com
+DOMAIN-SUFFIX,liadm.com
+DOMAIN-SUFFIX,media.net
+DOMAIN-SUFFIX,thrtle.com
+DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,1rx.io
+DOMAIN-SUFFIX,neon.click
+
 #Platforms
 DOMAIN-SUFFIX,salebot.pro

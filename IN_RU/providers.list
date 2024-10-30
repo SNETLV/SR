@@ -156,5 +156,12 @@ DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
 
+#Shoko
+DOMAIN-SUFFIX,hsjlxl-gcdsdk.appsflyersdk.com
+DOMAIN-SUFFIX,hsjlxl-launches.appsflyersdk.com
+DOMAIN-SUFFIX,hsjlxl-skadsdk.appsflyersdk.com
+DOMAIN-SUFFIX,shoko.maxbonus.ru
+DOMAIN-SUFFIX,shoko.group
+
 #Platforms
 DOMAIN-SUFFIX,salebot.pro

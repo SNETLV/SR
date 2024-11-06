@@ -75,18 +75,16 @@ DOMAIN-SUFFIX,cdntogo.net
 #Selectel
 DOMAIN-KEYWORD,selectel
 
-#Cian
-DOMAIN-SUFFIX,gcdsdk.appsflyersdk.com
-
 #Bitrix
 DOMAIN-KEYWORD,bitrix
-IP-ASN,200401
+IP-ASN,200401,no-resolve
 
 #Tilda
 DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,tildacdn.info
 DOMAIN-SUFFIX,tilda.cc
 DOMAIN-SUFFIX,tilda.ru
+DOMAIN-SUFFIX,tildaapi.com
 
 #Megafon, MTS, Beeline
 
@@ -95,6 +93,33 @@ DOMAIN-SUFFIX,3gppnetwork.org
 
 #Boosty
 DOMAIN-SUFFIX,boosty.to
+
+#Platforms
+DOMAIN-SUFFIX,salebot.pro
+DOMAIN-SUFFIX,avito.tech
+DOMAIN-SUFFIX,hubapi.com
+DOMAIN-SUFFIX,bubble.io
+DOMAIN-SUFFIX,careerpath.tech
+DOMAIN-KEYWORD,gcdsdk.appsflyersdk.com
+
+#Shoko
+DOMAIN-SUFFIX,shoko.maxbonus.ru
+DOMAIN-SUFFIX,shoko.group
+
+#Eapteka
+DOMAIN-SUFFIX,eapteka.ru
+DOMAIN-SUFFIX,anyclub.io
+DOMAIN-SUFFIX,polyfill.io
+DOMAIN-SUFFIX,mediawallahscript.com
+DOMAIN-SUFFIX,omnitagjs.com
+DOMAIN-SUFFIX,360yield.com
+DOMAIN-SUFFIX,liadm.com
+DOMAIN-SUFFIX,media.net
+DOMAIN-SUFFIX,thrtle.com
+DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,1rx.io
+DOMAIN-SUFFIX,neon.click
 
 #Shopee
 DOMAIN-SUFFIX,shopee.cl
@@ -156,28 +181,3 @@ DOMAIN-SUFFIX,ttwebview.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
-
-#Shoko
-DOMAIN-SUFFIX,hsjlxl-gcdsdk.appsflyersdk.com
-DOMAIN-SUFFIX,hsjlxl-launches.appsflyersdk.com
-DOMAIN-SUFFIX,hsjlxl-skadsdk.appsflyersdk.com
-DOMAIN-SUFFIX,shoko.maxbonus.ru
-DOMAIN-SUFFIX,shoko.group
-
-#Eapteka
-DOMAIN-SUFFIX,eapteka.ru
-DOMAIN-SUFFIX,anyclub.io
-DOMAIN-SUFFIX,polyfill.io
-DOMAIN-SUFFIX,mediawallahscript.com
-DOMAIN-SUFFIX,omnitagjs.com
-DOMAIN-SUFFIX,360yield.com
-DOMAIN-SUFFIX,liadm.com
-DOMAIN-SUFFIX,media.net
-DOMAIN-SUFFIX,thrtle.com
-DOMAIN-SUFFIX,adnxs.com
-DOMAIN-SUFFIX,smaato.net
-DOMAIN-SUFFIX,1rx.io
-DOMAIN-SUFFIX,neon.click
-
-#Platforms
-DOMAIN-SUFFIX,salebot.pro

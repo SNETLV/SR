@@ -126,6 +126,7 @@ DOMAIN-SUFFIX,gblnet.net
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,it-service.team
 DOMAIN-SUFFIX,ngenix.net
+DOMAIN-SUFFIX,ruvds.com
 DOMAIN-SUFFIX,salebot.pro
 DOMAIN-SUFFIX,avito.tech
 DOMAIN-SUFFIX,hubapi.com
@@ -135,6 +136,7 @@ DOMAIN-KEYWORD,gcdsdk.appsflyersdk.com
 DOMAIN-SUFFIX,gamma.app
 DOMAIN-SUFFIX,gammahosted.com
 DOMAIN-SUFFIX,lime-shop.com
+
 
 #Shoko
 DOMAIN-SUFFIX,shoko.maxbonus.ru

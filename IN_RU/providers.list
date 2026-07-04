@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,admetrica.ru
 DOMAIN,6s3yaq-launches.appsflyersdk.com
 DOMAIN-SUFFIX,yandex-bank.net
 DOMAIN-SUFFIX,yandex-net.ru
+DOMAIN-SUFFIX,yandexcloud.net
 IP-CIDR,100.43.64.0/19,no-resolve
 IP-CIDR,141.8.128.0/18,no-resolve
 IP-CIDR,178.154.128.0/18,no-resolve
@@ -82,6 +83,7 @@ DOMAIN-SUFFIX,cdntogo.net
 DOMAIN-KEYWORD,selectel
 
 #Bitrix
+DOMAIN-SUFFIX,bitrix.info
 DOMAIN-KEYWORD,bitrix
 IP-ASN,200401,no-resolve
 
@@ -142,7 +144,7 @@ DOMAIN-KEYWORD,gcdsdk.appsflyersdk.com
 DOMAIN-SUFFIX,gamma.app
 DOMAIN-SUFFIX,gammahosted.com
 DOMAIN-SUFFIX,lime-shop.com
-
+DOMAIN-SUFFIX,emcmos.edna.io
 
 #Shoko
 DOMAIN-SUFFIX,shoko.maxbonus.ru

@@ -76,6 +76,9 @@ DOMAIN-SUFFIX,vk.cc
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,mail.ru
 
+#Media
+DOMAIN-SUFFIX,setters.media
+
 #Kinopub
 DOMAIN-SUFFIX,cdntogo.net
 

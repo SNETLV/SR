@@ -79,6 +79,9 @@ DOMAIN-SUFFIX,mail.ru
 #Media
 DOMAIN-SUFFIX,setters.media
 
+#CDN
+DOMAIN-SUFFIX,website-files.com
+
 #Kinopub
 DOMAIN-SUFFIX,cdntogo.net
 
